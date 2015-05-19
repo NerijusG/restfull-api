@@ -1,0 +1,25 @@
+{
+  "name": "restfull-api",
+  "version": "0.0.1",
+  "description": "Restfull API powered by NodeJS",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NerijusG/restfull-api.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "Restfull",
+    "NodeJS"
+  ],
+  "author": "Nerijus Gaivenis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NerijusG/restfull-api/issues"
+  },
+  "homepage": "https://github.com/NerijusG/restfull-api"
+}
