@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/NerijusG/restfull-api/issues"
   },
-  "homepage": "https://github.com/NerijusG/restfull-api"
+  "homepage": "https://github.com/NerijusG/restfull-api",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
 }
